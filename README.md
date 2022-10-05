@@ -1,7 +1,7 @@
-### Olá! Eu sou a Bruna 👋
+### Olá! Eu sou a Bruna 👋🏻
 
-- 💻 Estudante de Ciência da Computação
-- 🛠 Estudando JavaScript
+- 💻 Estudante de Ciência da Computação 
+- 🛠 Estudando JavaScript 👩🏻‍💻
 
 <div align="center">
   <a href="https://github.com/brunakarina">
