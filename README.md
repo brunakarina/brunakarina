@@ -19,7 +19,7 @@
 
 
 <div style="display: inline_block">
-  <br>
+  <br/>
   <img
     align="center"
     alt="bruna-Js"
