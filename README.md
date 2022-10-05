@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Bruna 👋
 
-- 💻 Estudante de Ciência da Computação
-- 🛠 Estudando JavaScript
-
 <div>
   <a href="https://github.com/brunakarina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunakarina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
