@@ -4,7 +4,7 @@
 - 🛠 Estudando JavaScript
 
 <div align="center">
-  <a href="https://github.com/almirpask">
+  <a href="https://github.com/brunakarina">
   <img
     height="180em"
     width="49%"
