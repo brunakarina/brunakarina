@@ -63,7 +63,10 @@
       target="_blank"
     >
   </a>
-</div>
+  
+ <a href="https://linkedin.com/in/brunakarina" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"               alt="brunakarina" height="30" width="40" /></a>
+  </div>
   
    ![Snake animation](https://github.com/brunakarina/brunakarina/blob/output/github-contribution-grid-snake.svg)
    
