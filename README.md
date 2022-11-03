@@ -1,4 +1,4 @@
-### Olá! Eu sou a Bruna 👋🏻
+### Hi! I'm Bruna 👋🏻
 
 > 💻 Computer Science Student at UAM
 
