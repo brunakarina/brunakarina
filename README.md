@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Bruna 👋🏻
 
-- 💻 Estudante de Ciência da Computação 
-- 🛠 Estudando JavaScript 👩🏻‍💻
+> 💻 Computer Science Student at UAM
+
+> 🛠  I’m currently learning HTML, CSS, JavaScript 👩🏻‍💻
 
 <div align="center">
   <a href="https://github.com/brunakarina">
