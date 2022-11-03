@@ -1,6 +1,9 @@
 ### <Hello, World!/> <img src="https://user-images.githubusercontent.com/88801243/199815257-318033b3-ab91-4f0e-a69e-9a949aed5790.gif" width="30">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/88801243/199817895-e39443d2-9c99-42e2-9e60-536350507142.gif" width="200"/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Bruna+Barbosa;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Bruna+Karina;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 > 💻 Computer Science Student at UAM
 
@@ -72,5 +75,5 @@
    ![Snake animation](https://github.com/brunakarina/brunakarina/blob/output/github-contribution-grid-snake.svg)
    
  <div align="center">
- <img src="https://user-images.githubusercontent.com/88801243/194090994-a04a08e9-89ea-48bb-9fb8-b09e47273f05.gif"/>
+    <img src="https://user-images.githubusercontent.com/88801243/194090994-a04a08e9-89ea-48bb-9fb8-b09e47273f05.gif"/>
  </div>
