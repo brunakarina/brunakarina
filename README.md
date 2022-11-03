@@ -1,4 +1,4 @@
-### <Hello, World!/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+### <Hello, World!/> <img src="https://user-images.githubusercontent.com/88801243/199815257-318033b3-ab91-4f0e-a69e-9a949aed5790.gif" width="30">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Bruna+Barbosa;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
