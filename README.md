@@ -62,14 +62,7 @@
       target="_blank"
     >
   </a>
-  <a href="https://myanimelist.net/animelist/brunakarina" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"
-      target="_blank"
-    >
-  </a>
-  
-  
+ 
    ![Snake animation](https://github.com/brunakarina/brunakarina/blob/output/github-contribution-grid-snake.svg)
    
  <div align="center">
