@@ -2,7 +2,7 @@
 
 > 💻 Computer Science Student at UAM
 
-> 🛠 I'm currently learning HTML, CSS, JavaScript 👩🏻‍💻
+> 🛠 I’m currently learning HTML, CSS, JavaScript 👩🏻‍💻
 
 <div align="center">
   <a href="https://github.com/brunakarina">
