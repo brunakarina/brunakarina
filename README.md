@@ -7,6 +7,8 @@
 
 > 💻 Computer Science Student at UAM
 
+> 📚 Technical Degree in Business Administration
+
 > 🛠 I’m currently learning HTML, CSS, JavaScript 👩🏻‍💻
 
 <div align="center">
