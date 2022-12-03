@@ -9,7 +9,7 @@
 
 > 🚀 Explorer Student at Rocketseat
 
-> 📚 Technical Degree in Business Administration
+> 🎓 Technical Degree in Business Administration
 
 > 🛠 I’m currently learning HTML, CSS, JavaScript 👩🏻‍💻
 
