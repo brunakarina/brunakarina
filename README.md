@@ -11,7 +11,7 @@
 
 > 🎓 Technical Degree in Business Administration
 
-> 🛠 I’m currently learning Ruby 💎
+> 🛠 I’m currently learning JavaScript
 
 <div align="center">
   <a href="https://github.com/brunakarina">
