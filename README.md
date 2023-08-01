@@ -51,8 +51,7 @@
     >
   </a>
  
-
    
- <div align="center">
+ <div align="center"><br/>
     <img src="https://user-images.githubusercontent.com/88801243/194090994-a04a08e9-89ea-48bb-9fb8-b09e47273f05.gif"/>
  </div>
