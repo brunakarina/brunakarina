@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/88801243/199817895-e39443d2-9c99-42e2-9e60-536350507142.gif" width="190"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bruna+💻;Web+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 > 💻 Computer Science Student at UAM
 
